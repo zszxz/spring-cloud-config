@@ -1,2 +1,3 @@
-springcloud:
-  config: from pro
+zszxz:
+  springCloud:
+    config: from pro
