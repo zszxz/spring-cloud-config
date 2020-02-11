@@ -1,3 +1,4 @@
-springCloud:
-  config: from dev
+zszxz:
+  springCloud:
+    config: from dev
     
