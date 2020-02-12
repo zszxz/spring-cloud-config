@@ -1,4 +1,4 @@
 zszxz:
   springcloud:
-    config: from dev !! zszxz
+    config: from dev  zszxz
     
